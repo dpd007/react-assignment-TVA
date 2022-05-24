@@ -1,0 +1,13 @@
+.input-group-text {
+  padding-bottom: 0.7rem;
+  padding-top: 0.7rem;
+  background: rgb(255, 255, 255);
+  color: rgb(139, 131, 131);
+  border: none;
+}
+.search__btn {
+  border: 1px solid #ced4da;
+  background: transparent;
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
